@@ -1,5 +1,5 @@
 # ReactNativeNavigation
-Navigation Implementation in React Native move to another Screen in App
+Navigation Implementation in React Native move to another Screen in App, Preferensi Belajar React Native Navigation here : https://www.youtube.com/watch?v=sDJq57nEuBk&list=PLXwOLdizIwSQ0Bd4Jf8HhSbRqmXPE0uAH
 
 ## A. Create Project React Native
 
